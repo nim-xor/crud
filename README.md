@@ -1,7 +1,7 @@
 # crud
 
 ## Introduction
--An interactive application which is build with angularjs and springboot, which allows user to add content relative to the id.
+An interactive application which is build with angularjs and springboot, which allows user to add content relative to id.
 
 ## Learnings
 1. Spring Boot
